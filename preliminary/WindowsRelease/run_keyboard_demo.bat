@@ -1,1 +1,1 @@
-robot_gui.exe Demo\keyboard_demo.exe -m maps\2.txt
+robot_gui.exe "python Demo\keyboard_demo.py" -m maps\2.txt
